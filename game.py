@@ -1,4 +1,4 @@
-
+# Snake Water And Gun Game
 import random
 lst = ['s','w','g']
 
